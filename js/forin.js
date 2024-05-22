@@ -27,6 +27,7 @@ var json = {
 
 //for in
 for(let key in json) {
+    
     let value;
     value=json[key];
     console.log(value);
