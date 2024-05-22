@@ -27,3 +27,5 @@ let entries = Object.entries(jsonfor);
 entries.forEach(([key, value]) => {
     console.log(value);
 });
+ 
+
