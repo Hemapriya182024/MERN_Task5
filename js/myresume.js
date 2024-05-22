@@ -12,6 +12,7 @@ let MyResume = {
             "country": "India"
         },
     },
+    
     "profiles":
     {
 
